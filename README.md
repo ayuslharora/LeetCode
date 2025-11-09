@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayuslharora/LeetCode/tree/master/0013-roman-to-integer) |
+| [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Math
 |  |
 | ------- |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ayuslharora/LeetCode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
