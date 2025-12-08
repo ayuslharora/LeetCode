@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/ayuslharora/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayuslharora/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -72,12 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayuslharora/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/ayuslharora/LeetCode/tree/master/0027-remove-element) |
+| [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/ayuslharora/LeetCode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayuslharora/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ayuslharora/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 ## Simulation
 |  |
 | ------- |
