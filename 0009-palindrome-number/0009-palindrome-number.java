@@ -4,13 +4,18 @@ class Solution {
         if(x<0){
             return false;
         }
-        String s = String.valueOf(x);
-        StringBuilder sb = new StringBuilder(s);
-        sb.reverse();
-        if(s.equals(sb.toString())){
-            return true;
-        }else{
-            return false;
+        
+        int no = x;
+        int r = 0;
+
+        while(no>0){
+            r = r*10 + no%10;
+            no = no/10;
         }
+
+        if(r==x){
+            return true ;
+        }
+        return false;
     }
 }
