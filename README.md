@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayuslharora/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ayuslharora/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayuslharora/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/ayuslharora/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayuslharora/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayuslharora/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ayuslharora/LeetCode/tree/master/0027-remove-element) |
+| [0086-partition-list](https://github.com/ayuslharora/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ayuslharora/LeetCode/tree/master/0189-rotate-array) |
