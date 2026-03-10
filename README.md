@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ayuslharora/LeetCode/tree/master/1669-merge-in-between-linked-lists) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ayuslharora/LeetCode/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ayuslharora/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayuslharora/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -173,4 +175,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
