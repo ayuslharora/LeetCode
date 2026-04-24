@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayuslharora/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayuslharora/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayuslharora/LeetCode/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayuslharora/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayuslharora/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayuslharora/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayuslharora/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayuslharora/LeetCode/tree/master/0414-third-maximum-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayuslharora/LeetCode/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/ayuslharora/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ayuslharora/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ayuslharora/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayuslharora/LeetCode/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayuslharora/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayuslharora/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayuslharora/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ayuslharora/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Stack
