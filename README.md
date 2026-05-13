@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayuslharora/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayuslharora/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/ayuslharora/LeetCode/tree/master/0561-array-partition) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/ayuslharora/LeetCode/tree/master/0896-monotonic-array) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ayuslharora/LeetCode/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayuslharora/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/ayuslharora/LeetCode/tree/master/0561-array-partition) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/ayuslharora/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayuslharora/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -213,4 +215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/ayuslharora/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ayuslharora/LeetCode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/ayuslharora/LeetCode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
