@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/ayuslharora/LeetCode/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/ayuslharora/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ayuslharora/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/ayuslharora/LeetCode/tree/master/0509-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
