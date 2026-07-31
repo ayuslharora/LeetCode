@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayuslharora/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ayuslharora/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayuslharora/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/0328-odd-even-linked-list) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayuslharora/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayuslharora/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/ayuslharora/LeetCode/tree/master/0027-remove-element) |
+| [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ayuslharora/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/ayuslharora/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ayuslharora/LeetCode/tree/master/0283-move-zeroes) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayuslharora/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayuslharora/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
 | ------- |
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayuslharora/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
