@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayuslharora/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/ayuslharora/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3866-first-unique-even-element](https://github.com/ayuslharora/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/ayuslharora/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayuslharora/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3866-first-unique-even-element](https://github.com/ayuslharora/LeetCode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayuslharora/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
@@ -240,4 +242,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ayuslharora/LeetCode/tree/master/0561-array-partition) |
+| [3866-first-unique-even-element](https://github.com/ayuslharora/LeetCode/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
