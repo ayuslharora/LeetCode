@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ayuslharora/LeetCode/tree/master/0414-third-maximum-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/ayuslharora/LeetCode/tree/master/0896-monotonic-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/ayuslharora/LeetCode/tree/master/1834-single-threaded-cpu) |
