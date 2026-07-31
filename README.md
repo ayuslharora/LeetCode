@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ayuslharora/LeetCode/tree/master/0283-move-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayuslharora/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1834-single-threaded-cpu](https://github.com/ayuslharora/LeetCode/tree/master/1834-single-threaded-cpu) |
@@ -147,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ayuslharora/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ayuslharora/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
