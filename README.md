@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ayuslharora/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ayuslharora/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ayuslharora/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/ayuslharora/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ayuslharora/LeetCode/tree/master/0189-rotate-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayuslharora/LeetCode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayuslharora/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/ayuslharora/LeetCode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/ayuslharora/LeetCode/tree/master/0143-reorder-list) |
 ## Tree
 |  |
