@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayuslharora/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ayuslharora/LeetCode/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ayuslharora/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayuslharora/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/ayuslharora/LeetCode/tree/master/0013-roman-to-integer) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayuslharora/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/ayuslharora/LeetCode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Array
 |  |
 | ------- |
