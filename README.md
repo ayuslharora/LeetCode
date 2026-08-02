@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayuslharora/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/ayuslharora/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayuslharora/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ayuslharora/LeetCode/tree/master/0877-stone-game) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/ayuslharora/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayuslharora/LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/ayuslharora/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ayuslharora/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ayuslharora/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ayuslharora/LeetCode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/ayuslharora/LeetCode/tree/master/0896-monotonic-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/ayuslharora/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ayuslharora/LeetCode/tree/master/0053-maximum-subarray) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayuslharora/LeetCode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0509-fibonacci-number](https://github.com/ayuslharora/LeetCode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/ayuslharora/LeetCode/tree/master/0877-stone-game) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/ayuslharora/LeetCode/tree/master/0561-array-partition) |
 | [3866-first-unique-even-element](https://github.com/ayuslharora/LeetCode/tree/master/3866-first-unique-even-element) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayuslharora/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
